@@ -51,14 +51,14 @@ const HeroSection = () => {
 
         {/* Image Content */}
         <div className="mt-12 md:mt-0 relative">
-          <div className="w-[300px] md:w-[380px] h-auto relative z-10">
+          <div className="w-[300px] md:w-[580px] h-auto relative z-10">
             <img
               src="/camera.png" // Replace with your local image path or URL
               alt="Security Camera"
               className="w-full h-auto object-contain"
             />
           </div>
-          <div className="absolute top-4 left-4 md:top-6 md:left-6 w-full h-full rounded-3xl bg-blue-700/10 z-0" />
+          {/* <div className="absolute top-4 left-4 md:top-6 md:left-6 w-full h-full rounded-3xl bg-blue-700/10 z-0" /> */}
         </div>
       </div>
     </section>
