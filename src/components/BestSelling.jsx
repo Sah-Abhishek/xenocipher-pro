@@ -29,7 +29,7 @@ const BestSelling = () => {
       {/* Header */}
       <div className="flex justify-between items-center mb-10">
         <h2 className="text-2xl md:text-3xl font-semibold text-gray-900">
-          Best Selling
+          Coming Soon
         </h2>
         <div className="space-x-2">
           <button className="p-2 rounded-full border border-gray-300 hover:bg-gray-100 transition">
